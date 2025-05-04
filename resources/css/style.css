@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 16px;
+}
+
+body {
+    font-family: Verdana, sans-serif;
+    background-color: #000000;
+    color: #ffffff;
+}
+
+/* header styling */
+
+header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+header h1 {
+    font-size: 3.125rem;
+    font-weight: normal;
+}
+
+header a {
+    color: aquamarine;
+}
