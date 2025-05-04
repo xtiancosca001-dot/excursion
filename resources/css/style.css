@@ -44,7 +44,12 @@ main {
     font-weight: 300;
 }
 
-.description p {
+.description p, footer p {
     font-size: 1.3125rem;
     color: gray;
+}
+
+/* footer */
+footer {
+    text-align: right;
 }
