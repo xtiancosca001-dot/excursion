@@ -49,6 +49,11 @@ main {
     color: gray;
 }
 
+.description img {
+    width: 100%;
+    height: auto;
+}
+
 /* footer */
 footer {
     text-align: right;
